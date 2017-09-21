@@ -3,8 +3,8 @@
  */
 var daoPanUrl = '../models/0816daotou.glb';
 var dunGouUrl = '../models/0816qita.glb';
-var suiDaoUrl = '../models/001obj.gltf';
-var daoPanScale =0.001, dunGouScale = 0.001,suiDaoScale = 1;
+var suiDaoUrl = '../models/untitled1.gltf';
+var daoPanScale =0.001, dunGouScale = 0.001,suiDaoScale = 1000;
 var suiDaoInfo = {
     //-112.110693, 36.0994841, 10
     position :{l:-112.110693,la:36.0994841,h:10},
